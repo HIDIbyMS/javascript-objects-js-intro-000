@@ -1,7 +1,9 @@
-var playlist = {
-  artistName: 'Alison',
-  songTitle: 'Slowdive'
-};
+var playlist = {};
+playlist[artistName] = new Array();
+playlist[songTitle] = new Array();
+
+
+
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
