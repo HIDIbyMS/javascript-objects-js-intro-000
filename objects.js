@@ -3,3 +3,6 @@ var playlist = {
   songTitle: "It's My Life"
 };
 
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}
