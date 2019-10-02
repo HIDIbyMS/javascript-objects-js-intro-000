@@ -1,6 +1,6 @@
 var playlist = {
   artistName: 'Alison',
-  songTitle: "It's My Life"
+  songTitle: 'Slowdive'
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
@@ -8,5 +8,5 @@ function updatePlaylist(playlist, artistName, songTitle){
   playlist.songTitle = "Pour Some Sugar on Me";
 }
 
-    playlist['Slowdive'] = 'Alison'
+   
       playlist['My Bloody Valentine'] = 'Sometimes'
