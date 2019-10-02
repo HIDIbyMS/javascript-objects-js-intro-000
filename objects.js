@@ -4,5 +4,6 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
-  artistName[playlist] = BonJovi 
+  playlist.artistName = "Def Leppard";
+  playlist.songTitle = "Pour Some Sugar on Me";
 }
