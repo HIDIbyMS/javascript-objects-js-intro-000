@@ -8,6 +8,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return Object.assign({}, playlist, { ['Sometimes']: 'My Bloody Valentine'})
 }
 
-function removeFromPlaylist(){
-  delete playlist.songTitle;
+function removeFromPlaylist(playlist, artistName){
+  delete playlist.artistName;
 }
