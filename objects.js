@@ -1,6 +1,8 @@
-var playlist = {};
-playlist[artistName] = new Array();
-playlist[songTitle] = new Array();
+var playlist = {
+  artistName: 'Phil Ochs',
+  songTitle: 'My Bloody Valentine'
+};
+
 
 
 
